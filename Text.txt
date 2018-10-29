@@ -1,3 +1,7 @@
 This is my file
+<<<<<<< HEAD
 And it is the not the only one
 
+=======
+And it is the only one
+>>>>>>> feature-1
